@@ -9,7 +9,9 @@ public class FirstClass {
     //We will do git collaboration using GitHub
     //be ready for them!
 
+
     // this is Emine
+
 
 
 
@@ -24,5 +26,9 @@ public class FirstClass {
 
 
     //hello this is ramazan
+
     // this a test
+
+    // nasil egleniyor muyuz?
+
 }
