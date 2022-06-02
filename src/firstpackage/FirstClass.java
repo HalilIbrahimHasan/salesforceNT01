@@ -35,22 +35,26 @@ public class FirstClass {
 
     //hello everyone this is Red1!
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+    //hello
+
+    //Here is my conflicting updates
+
+    //here is another conflicting updates
+
+
     // conflict part
-=======
->>>>>>> b3fb2747bcad114aee3313218180367e3658fd8e
-=======
 
 
->>>>>>> b954fdfabf791d262cef3748d8548c8f7c9bb593
+
     //hello this is ramazan
 
     // this a test
 
     // nasil egleniyor muyuz?
->>>>>>> b954fdfabf791d262cef3748d8548c8f7c9bb593
+
 
     // Red1 Push2 2nd
+
 
 }
