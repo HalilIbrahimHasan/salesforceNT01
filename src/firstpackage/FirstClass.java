@@ -1,9 +1,8 @@
 package firstpackage;
 
 public class FirstClass {
-    public static void main(String[] args) {
-        System.out.print("Hello from Houston!");
-    }
+
+
 
 
 
@@ -11,6 +10,17 @@ public class FirstClass {
 
     //We will do git collaboration using GitHub
     //be ready for them!
+
+
+    // update
+
+
+    // hello everyone this Ramazan
+
+
+
+    //and this is emre s update :))
+    //This is ibrahim updates ok
 
     //hello this is dilek
 
@@ -24,7 +34,9 @@ public class FirstClass {
     //This is ibrahim updates
 
 
+
     //hello everyone this is Red1!
+
 
     // conflict part
 
@@ -32,6 +44,21 @@ public class FirstClass {
     //hello this is ramazan
     // nasil egleniyor muyuz?
 
-    // Red1 Push2 2nd
+
+
+
+    // conflict part
+
+
+
+    //hello this is ramazan
+    // nasil egleniyor muyuz?
+    // Hem de nasil.
+
+    //hello this is ramazan
+    // I deleted everything
+
+
+
 
 }
