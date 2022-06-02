@@ -12,20 +12,18 @@ public class FirstClass {
     //We will do git collaboration using GitHub
     //be ready for them!
 
-<<<<<<< HEAD
+
 
     // this is Emine
 
 
 
 
-=======
+
     //hello this is dilek
 
     // hello everyone this Ramazan
->>>>>>> 82ffd7bb445c66751ce406c64d3473d878e3c620
-
-    // hello everyone this Ramazan
+ // hello everyone this Ramazan
 
 
     //and this is emre s update :))
@@ -56,5 +54,5 @@ public class FirstClass {
 
     // Red1 Push2 2nd
 
-
+    // I wanna see
 }
