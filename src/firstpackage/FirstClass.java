@@ -11,4 +11,6 @@ public class FirstClass {
 
     //hello everyone this is Red1!
 
+    // conflict part
+
 }
