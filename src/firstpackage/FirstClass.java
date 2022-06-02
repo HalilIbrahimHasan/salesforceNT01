@@ -13,12 +13,17 @@ public class FirstClass {
 
     // hello everyone this Ramazan
 
+    // hello everyone this Ramazan
+
+
     //and this is emre s update :))
 
     //This is ibrahim updates
 
 
     //hello everyone this is Red1!
+
+
 
     //hello this is ramazan
     // nasil egleniyor muyuz?
