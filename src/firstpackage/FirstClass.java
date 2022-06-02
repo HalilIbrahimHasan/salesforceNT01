@@ -19,4 +19,6 @@ public class FirstClass {
 
 >>>>>>> 992ffcf27e28fe22a2cffeade9b12568b51b35b9
     //hello this is ramazan
+    // nasil egleniyor muyuz?
+
 }
