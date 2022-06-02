@@ -4,4 +4,6 @@ public class FirstClass {
 
 //welcome everyone
     //hi
+    //selam
+    //Good morning
 }
