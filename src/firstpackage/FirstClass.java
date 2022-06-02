@@ -7,6 +7,7 @@ public class FirstClass {
 
 
 
+
     //Hello dear Developers!
 
     //We will do git collaboration using GitHub
@@ -48,7 +49,12 @@ public class FirstClass {
     //hello this is ramazan
     // nasil egleniyor muyuz?
 
+    //hello this is ramazan
+    // I deleted everything
 
-    // Red1 Push2 2nd
+
+
+
+
 
 }
