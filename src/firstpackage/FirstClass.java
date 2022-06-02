@@ -1,9 +1,7 @@
 package firstpackage;
 
 public class FirstClass {
-//    public static void main(String[] args) {
-//        System.out.print("Hello from Houston!");
-//    }
+
 
 
 
@@ -48,6 +46,7 @@ public class FirstClass {
 
     //hello this is ramazan
     // nasil egleniyor muyuz?
+    // Hem de nasil.
 
     //hello this is ramazan
     // I deleted everything
