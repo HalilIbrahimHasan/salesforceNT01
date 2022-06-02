@@ -12,6 +12,14 @@ public class FirstClass {
     //be ready for them!
 
 
+
+
+    // this is Emine
+
+
+
+
+
     // update
 
 
@@ -22,11 +30,11 @@ public class FirstClass {
     //and this is emre s update :))
     //This is ibrahim updates ok
 
+
     //hello this is dilek
 
     // hello everyone this Ramazan
-
-    // hello everyone this Ramazan
+ // hello everyone this Ramazan
 
 
     //and this is emre s update :))
@@ -52,6 +60,9 @@ public class FirstClass {
 
 
     //hello this is ramazan
+
+    // this a test
+
     // nasil egleniyor muyuz?
     // Hem de nasil.
 
