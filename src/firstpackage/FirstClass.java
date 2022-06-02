@@ -1,6 +1,9 @@
 package firstpackage;
 
 public class FirstClass {
+    public static void main(String[] args) {
+        System.out.print("Hello from Houston!");
+    }
 
 
 
@@ -24,14 +27,18 @@ public class FirstClass {
     //hello everyone this is Red1!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     // conflict part
+=======
+>>>>>>> b3fb2747bcad114aee3313218180367e3658fd8e
 =======
 
 
+>>>>>>> b954fdfabf791d262cef3748d8548c8f7c9bb593
     //hello this is ramazan
     // nasil egleniyor muyuz?
 >>>>>>> b954fdfabf791d262cef3748d8548c8f7c9bb593
 
-    // Red1 Push2
+    // Red1 Push2 2nd
 
 }
